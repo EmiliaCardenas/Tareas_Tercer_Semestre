@@ -8,12 +8,12 @@ Tarea 3 - list.h
 
 Tarea 4 - dlist.h
 
-Tarea 5 -
+Tarea 5 - bst.h
 
 Tarea 6 - heap.h
 
 Tarea 7 - splay.h
 
-Tarea 8 -
+Tarea 8 - graph.h
 
-Tarea 9 -
+Tarea 9 - quadratic.h
